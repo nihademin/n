@@ -1,0 +1,257 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+#basdig {
+    background-image: url(https://stockholm23.select-themes.com/wp-content/uploads/2017/06/restaurant-slide-img-1.png);
+    padding: 400px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.logo-holder {
+    width: 100%;
+    text-align: center;
+    margin-top: -250px;
+}
+
+.text-holder {
+    width: 50%;
+    margin: auto;
+    margin-top: -150px;
+}
+
+.text-holder button {
+    padding: 15px 35px;
+    background-color: rgba(255, 255, 255, 0.01);
+    border-width: 3px;
+    color: #525c66;
+    border-color: #525c66;
+    transition: background-color .3s;
+}
+
+.text-holder button:hover {
+    color: white;
+    background-color: #525c66
+}
+
+.text-holder h1 {
+    line-height: 50px;
+    font-family: Montserrat;
+    font-size: 40px;
+    letter-spacing: 15px;
+}
+
+.text-holder p {
+    opacity: 0.6;
+    padding: 25px 0;
+}
+
+.logo-holder2 {
+    width: 100%;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.text-holder2 {
+    width: 50%;
+    margin: auto;
+}
+
+.text-holder2 h1 {
+    margin: 25px 0;
+    text-align: center;
+}
+
+.text-holder2 p {
+    text-align: center;
+    opacity: 0.6;
+}
+
+.img-holder {
+    width: 100%;
+}
+
+.img {
+    width: 31%;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#ucuncu {
+    background-image: url(https://stockholm23.select-themes.com/wp-content/uploads/2017/06/about-img-2.jpg);
+    padding: 200px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.text-holder3 {
+    width: 50%;
+    margin: auto;
+    color: white;
+}
+
+.text-holder3 button {
+    padding: 15px 35px;
+    border-color: #fff;
+    color: #fff;
+    background-color: transparent;
+    transition: background-color .3s;
+}
+
+.text-holder3 button:hover {
+    color: #525c66;
+    background-color: white;
+}
+
+.text-holder3 p {
+    margin: 50px 50px;
+}
+
+.text-holder3 {
+    margin-top: -150px;
+}
+
+.text-holder3 h1 {
+    font-size: 60px;
+}
+
+#dord {
+    background-image: url(https://stockholm23.select-themes.com/wp-content/uploads/2017/06/restaurant-img-4.jpg);
+    padding: 300px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.text-holder4 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.logo-holder4 {
+    width: 100%;
+    text-align: center;
+}
+
+.dordimg {
+    width: 100%;
+}
+
+.container1 {
+    float: right;
+    width: 65%;
+    margin-top: -150px;
+}
+
+.text-holder4 p {
+    opacity: 0.6;
+    letter-spacing: 2px;
+}
+
+.text-holder4 h1 {
+    letter-spacing: 7px;
+    font-size: 35px;
+    padding: 15px 0;
+}
+
+#menu {
+    background: #f5f5f5;
+    padding: 150px 0;
+    text-align: center;
+}
+
+.tava {
+    width: 55%;
+    float: right;
+    margin-top: -400px;
+}
+
+.tava img {
+    width: 60%;
+}
+
+.text-holder5 {
+    width: 39%;
+}
+
+.text-holder5 h1 {
+    font-size: 35px;
+}
+
+.text-holder5 p {
+    opacity: 0.6;
+    margin: 30px;
+}
+
+.text-holder5 button {
+    padding: 15px 30px;
+    border-color: #525c66;
+    color: #525c66;
+    border-radius: 3px;
+    background-color: #f5f5f5;
+    transition: background-color .3s;
+}
+
+.text-holder5 button:hover {
+    background-color: #525c66;
+    color: white
+}
+
+.logo-holder5 {
+    margin: 0 600px 50px 0px;
+    width: 100%;
+}
+
+#axr {
+    background-image: url(https://stockholm23.select-themes.com/wp-content/uploads/2017/06/restaurant-img-6.jpg?id=308);
+    padding: 500px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.fon {
+    padding: 400px 50px;
+    background: #f5f5f5;
+}
+
+.contain {
+    width: 90%;
+    margin: auto;
+}
+
+.m1imgs {
+    width: 100%;
+}
